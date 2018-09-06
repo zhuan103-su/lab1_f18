@@ -35,13 +35,14 @@ h1 {
 .content {
     float: left;
     width: 70%;
-    background-color: darkolivegreen;
+    background-color: lightgray;
     min-height: 500px;
 }
 .sidebar {
     float: left;
     width: 30%;
-    background-color: skyblue;
+    background-color:black;
+    color: white;
     min-height: 500px;
 
 }
@@ -49,3 +50,29 @@ h1 {
 .main {
     margin: 20px;
 }
+
+.blog-post {
+    margin: 10px;
+    padding: 10px;
+    border: lightgray;
+    background-color: white;
+
+
+}
+
+
+
+.pic01 {
+    
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: left;
+    object-fit: contain;
+
+}
+
+
+
+
