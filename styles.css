@@ -70,7 +70,8 @@ h1 {
 }
 img {
     float: left;    
-    margin: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
     width: auto;
     height: auto;
     object-fit: contain;
