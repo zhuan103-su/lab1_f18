@@ -49,6 +49,7 @@ h1 {
 
 .main {
     margin: 20px;
+    display: flex;
 }
 
 .blog-post {
@@ -60,15 +61,18 @@ h1 {
 
 }
 
+.content p {
+    margin: 10px;
+}
 
-
-.pic01 {
-    
-    width: 200px;
-    height: 200px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    float: left;
+.sidebar p {
+    margin: 10px; 
+}
+img {
+    float: left;    
+    margin: 10px;
+    width: auto;
+    height: auto;
     object-fit: contain;
 
 }
